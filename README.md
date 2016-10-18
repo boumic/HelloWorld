@@ -10,5 +10,6 @@ Add line br1.2
 Add line br2
 Add line master local
 Add line Master
+Add line master local
 Add line remote master
 
